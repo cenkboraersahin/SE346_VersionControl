@@ -10,6 +10,6 @@ int main()
 
 	printf("Ozge Tekin,987654,SE\n");
 
-	printf("Cenk Bora ERSAHIN,160302023,SE\n");
+	printf("Cenk Bora ERSAHIN,160302023,CMPE\n");
 
 }
